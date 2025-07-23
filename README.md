@@ -1,6 +1,7 @@
 # GitHub User Finder 🔍
 
-A simple and elegant web application to search and display GitHub user profiles using the GitHub REST API. Built with **HTML**, **Tailwind CSS**, and **Vanilla JavaScript**.
+[Live Demo](https://githuser.netlify.app/)
+A simple and elegant web application to search and display GitHub user profiles using the GitHub REST API. Built with **HTML**, **Tailwind CSS**, and **JavaScript**.
 
 ## ✨ Features
 
